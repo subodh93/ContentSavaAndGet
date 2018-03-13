@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--margin,padding-->
+    <dimen name="margin_v4">4dp</dimen>
+    <dimen name="margin_v8">8dp</dimen>
+    <dimen name="margin_v16">16dp</dimen>
+    <dimen name="margin_v24">24dp</dimen>
+    <dimen name="margin_v48">48dp</dimen>
+    <dimen name="margin_v60">60dp</dimen>
+
+    <dimen name="padding_v4">4dp</dimen>
+    <dimen name="padding_v8">8dp</dimen>
+    <dimen name="padding_v16">16dp</dimen>
+    <dimen name="padding_v24">24dp</dimen>
+    <dimen name="padding_v48">48dp</dimen>
+    <dimen name="padding_v60">60dp</dimen>
+
+    <!--editText, button, TextView-->
+    <dimen name="edittext_small_extra_12dip">12dip</dimen>
+    <dimen name="edittext_small_14dip">14dip</dimen>
+    <dimen name="edittext_normal_16dip">16dip</dimen>
+    <dimen name="edittext_normal_18dip">18dip</dimen>
+    <dimen name="edittext_large_20dip">20dip</dimen>
+    <dimen name="edittext_large_22dip">22dip</dimen>
+    <dimen name="edittext_xlarge_25dip">25dip</dimen>
+    <dimen name="edittext_big_30dip">30dip</dimen>
+
+    <dimen name="textsize_v0">0dp</dimen>
+    <dimen name="textsize_small_extra_12dip">12dip</dimen>
+    <dimen name="textsize_small_14dip">14dip</dimen>
+    <dimen name="textsize_normal_16dip">16dip</dimen>
+    <dimen name="textsize_normal_18dip">18dip</dimen>
+    <dimen name="textsize_large_20dip">20dip</dimen>
+    <dimen name="textsize_large_22dip">22dip</dimen>
+    <dimen name="textsize_xlarge_25dip">25dip</dimen>
+    <dimen name="textsize_big_30dip">30dip</dimen>
+
+    <dimen name="button_small_extra_12dip">12dip</dimen>
+    <dimen name="button_small_14dip">14dip</dimen>
+    <dimen name="button_normal_16dip">16dip</dimen>
+    <dimen name="button_normal_18dip">18dip</dimen>
+    <dimen name="button_large_20dip">20sp</dimen>
+    <dimen name="button_large_22dip">22dip</dimen>
+    <dimen name="button_xlarge_25dip">25dip</dimen>
+    <dimen name="button_big_30dip">30dip</dimen>
+
+    <!--spacing-->
+    <dimen name="space_normal_8dip">8dip</dimen>
+    <dimen name="space_normal_10dip">10dip</dimen>
+    <dimen name="space_normal_12dip">12dip</dimen>
+    <dimen name="space_x_small_3dip">3dip</dimen>
+    <dimen name="space_small_5dip">5dip</dimen>
+    <dimen name="space_large_15dip">15dip</dimen>
+    <dimen name="space_big_20dip">20dip</dimen>
+
+    <!--cardview-->
+    <dimen name="card_corner_radius_v4">4dp</dimen>
+    <dimen name="card_corner_radius_v8">4dp</dimen>
+    <dimen name="card_corner_radius_v16">4dp</dimen>
+    <dimen name="card_corner_radius_v24">4dp</dimen>
+    <dimen name="card_corner_radius_v48">4dp</dimen>
+    <dimen name="card_corner_radius_v60">4dp</dimen>
+
+</resources>

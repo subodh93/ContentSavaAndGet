@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.extraaedge.contentsaveandget.homeActivity.UserRegistrationActivity">
+
+    <EditText
+        android:id="@+id/etFullName"
+        android:inputType="textPersonName"
+        android:hint="@string/enter_full_name"
+        style="@style/customEditText"
+        />
+
+    <EditText
+        android:id="@+id/etCityName"
+        android:inputType="textPersonName"
+        android:hint="@string/enter_city_name"
+        style="@style/customEditText"/>
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:inputType="textEmailAddress"
+        android:hint="@string/enter_email_id"
+        style="@style/customEditText"/>
+
+    <Button
+        android:id="@+id/btSubmit"
+        android:text="@string/button_submit"
+        style="@style/customButton"/>
+
+    <Button
+        android:id="@+id/btGetData"
+        android:text="@string/get_data"
+        android:layout_width="match_parent"
+        style="@style/customButton"/>
+
+</LinearLayout>

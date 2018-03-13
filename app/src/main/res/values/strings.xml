@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContentSaveAndGet</string>
+
+    <!--Activities layout Text-->
+    <string name="add_new_user">Add New User</string>
+
+    <string name="user_registration">User Registration</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="button_submit">Submit</string>
+    <string name="get_data">Get Data</string>
+
+
+    <!--Row Layout Text-->
+    <string name="full_name">Full Name</string>
+    <string name="city_name">City Name</string>
+    <string name="email_id">Email Id</string>
+</resources>
